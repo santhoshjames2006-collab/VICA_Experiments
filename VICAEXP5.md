@@ -31,7 +31,8 @@ To sort even numbers from a given set of numbers using a WHILE loop in an array 
 
 ##  Block Diagram Description
 
-<img width="578" height="461" alt="image" src="https://github.com/user-attachments/assets/967af91d-73c8-4e81-85f3-595f353181ef" />
+<img width="1124" height="806" alt="image" src="https://github.com/user-attachments/assets/5a3b5961-a07a-4b97-9489-2eef9c0da7dd" />
+
 
 ## Output
 
